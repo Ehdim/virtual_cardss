@@ -1,0 +1,6 @@
+C:\Users\P501\Desktop\Virtual kart\Virtual kart\bin\Debug\Virtual kart.exe.config
+C:\Users\P501\Desktop\Virtual kart\Virtual kart\bin\Debug\Virtual kart.exe
+C:\Users\P501\Desktop\Virtual kart\Virtual kart\bin\Debug\Virtual kart.pdb
+C:\Users\P501\Desktop\Virtual kart\Virtual kart\obj\Debug\Virtual kart.csprojResolveAssemblyReference.cache
+C:\Users\P501\Desktop\Virtual kart\Virtual kart\obj\Debug\Virtual kart.exe
+C:\Users\P501\Desktop\Virtual kart\Virtual kart\obj\Debug\Virtual kart.pdb
